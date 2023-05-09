@@ -1,12 +1,12 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%281%29.jpg)
+![Tutorial de como manipular cookies en Javascript imagen 1](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%281%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%282%29.jpg)
+![Tutorial de como manipular cookies en Javascript imagen 2](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%282%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%283%29.jpg)
+![Tutorial de como manipular cookies en Javascript imagen 3](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%283%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%284%29.jpg)
+![Tutorial de como manipular cookies en Javascript imagen 4](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%284%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%285%29.jpg)
+![Tutorial de como manipular cookies en Javascript imagen 5](https://raw.githubusercontent.com/sergiecode/cookies-tutorial/master/cookies-tutorial%20%285%29.jpg)
 
 # Tutorial sobre cookies en JavaScript
 
